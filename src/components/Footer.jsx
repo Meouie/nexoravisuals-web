@@ -50,12 +50,12 @@ const Footer = () => {
           <p className="text-md text-zinc-500">
             Website made with ❤️ by{" "}
             <a
-              href="https://antinity.me/"
+              href="https://meouie.github.io/Homepage/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-pink-400 no-underline hover:text-white transition"
             >
-              Antinity
+              Meouie aka Moksh
             </a>
             <p className="text-xs text-zinc-500 mt-2">
               We don’t track you. There are no cookies this time.
